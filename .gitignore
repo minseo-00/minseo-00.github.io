@@ -1,0 +1,12 @@
+# 환경 및 빌드 파일
+node_modules/
+dist/
+.env
+package-lock.json
+
+# OS 및 에디터 파일
+.DS_Store
+*.log
+
+# Obsidian 관련
+.obsidian/

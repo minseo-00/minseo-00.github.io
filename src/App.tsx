@@ -1,5 +1,5 @@
-import Header from './layouts/Header/Header'
-import Footer from './layouts/Footer/Footer'
+import Header from './components/layouts/Header/Header'
+import Footer from './components/layouts/Footer/Footer'
 import Home from './pages/Home'
 import './App.css'
 
